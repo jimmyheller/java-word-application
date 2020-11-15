@@ -1,4 +1,4 @@
-##Java Word Application
+## Java Word Application
 
 This application is going to be a sample application for my youtube channel. 
 
